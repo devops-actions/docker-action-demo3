@@ -1,0 +1,9 @@
+name: "Dockerfile example"
+author: "rajbos"
+description: "This is a simple example of a Dockerfile action that runs a shell script."
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'award'
+  color: 'green'
